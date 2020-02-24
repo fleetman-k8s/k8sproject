@@ -1,0 +1,3 @@
+[submodule "k8sproject"]
+	path = k8sproject
+	url = https://github.com/premsgr6/k8sproject.git
